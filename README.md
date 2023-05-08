@@ -22,12 +22,12 @@ the proposed method achieves better anti-steganalysis and robustness.
 性能，自适应地调整纠错码的纠错能力以消除冗余。 实验结果表明
 所提出的方法实现了更好的反隐写分析和鲁棒性。
 
-## cite our paper
-@misc{duan2023robust,
-      title={Robust image steganography against lossy JPEG compression based on embedding domain selection and adaptive error correction}, 
-      author={Xiaolong Duan and Bin Li and Zhaoxia Yin and Xinpeng Zhang and Bin Luo},
-      year={2023},
-      eprint={2304.13297},
-      archivePrefix={arXiv},
+## How to cite our paper
+@misc{duan2023robust, <br>
+      title={Robust image steganography against lossy JPEG compression based on embedding domain selection and adaptive error correction}, <br>
+      author={Xiaolong Duan and Bin Li and Zhaoxia Yin and Xinpeng Zhang and Bin Luo}, <br>
+      year={2023}, <br>
+      eprint={2304.13297}, <br>
+      archivePrefix={arXiv}, <br>
       primaryClass={cs.MM}
 }
