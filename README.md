@@ -21,3 +21,13 @@ the proposed method achieves better anti-steganalysis and robustness.
 自适应地。 增加鲁棒性并减少对反隐写分析的影响
 性能，自适应地调整纠错码的纠错能力以消除冗余。 实验结果表明
 所提出的方法实现了更好的反隐写分析和鲁棒性。
+
+## cite our paper
+@misc{duan2023robust,
+      title={Robust image steganography against lossy JPEG compression based on embedding domain selection and adaptive error correction}, 
+      author={Xiaolong Duan and Bin Li and Zhaoxia Yin and Xinpeng Zhang and Bin Luo},
+      year={2023},
+      eprint={2304.13297},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM}
+}
