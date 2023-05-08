@@ -11,13 +11,11 @@ Transmitting images for communication on social networks has become routine, whi
 在社交网络上传输图像以进行通信已成为常规，这有助于隐蔽通信。 传统的隐写术算法无法成功传达秘密信息，因为社会网络通道将对图像进行有损操作，例如 JPEG 压缩。 之前的研究试图通过增强鲁棒性或使覆盖适应通道处理来解决这个问题。 在这项研究中，我们提出了一种基于嵌入域选择和自适应纠错的鲁棒图像隐写术来对抗有损 JPEG 压缩。为了提高反隐写分析性能，选择了嵌入域自适应地。 增加鲁棒性并减少对反隐写分析的影响性能，自适应地调整纠错码的纠错能力以消除冗余。 实验结果表明所提出的方法实现了更好的反隐写分析和鲁棒性。
 
 ## How to cite our paper
-    @article{yin2019reversible,
-      title={Reversible data hiding in encrypted images based on multi-MSB prediction and Huffman coding},
-      author={Yin, Zhaoxia and Xiang, Youzhi and Zhang, Xinpeng},
-      journal={IEEE Transactions on Multimedia},
-      volume={22},
-      number={4},
-      pages={874--884},
-      year={2019},
-      publisher={IEEE}
-    }
+    @misc{duan2023robust,
+      title={Robust image steganography against lossy JPEG compression based on embedding domain selection and adaptive error correction}, 
+      author={Xiaolong Duan and Bin Li and Zhaoxia Yin and Xinpeng Zhang and Bin Luo},
+      year={2023},
+      eprint={2304.13297},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM}
+}
